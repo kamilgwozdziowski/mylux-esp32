@@ -1,0 +1,12 @@
+{
+    "bleName": "mylux",
+    "amps": 0,
+    "mah": 1,
+    "bleUUID": {
+        "wattmeter": {
+            "service": "fdd80d88-c091-11ea-b3de-0242ac130004",
+            "amps": "ec15783c-c092-11ea-b3de-0242ac130004",
+            "mah": "05dcf540-c09a-11ea-b3de-0242ac130004"
+        }
+    }
+}
